@@ -1,0 +1,57 @@
+{
+  "title":"Que tipo de Ninja você seria no mundo de Naruto?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual destes elementos de chakra você prefere?",
+      "options":[
+        {"id": 1, "name":"Fogo 🔥", "alias":"A"},
+        {"id": 2, "name":"Água 💧", "alias":"B"},
+        {"id": 3, "name":"Raio ⚡", "alias":"A"},
+        {"id": 4, "name":"Terra 🏔️", "alias":"B"},
+        {"id": 5, "name":"Vento 🌪️", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Se você pudesse escolher um clã para nascer, qual seria?",
+      "options":[
+        {"id": 1, "name":"Uzumaki - Chakra Absurdo 🦊", "alias":"A"},
+        {"id": 2, "name":"Uchiha - Sharingan poderoso 👁️", "alias":"B"},
+        {"id": 3, "name":"Senju - Força e regeneração 🛡️", "alias":"A"},
+        {"id": 4, "name":"Nara - Controle das sombras 🖤", "alias":"B"},
+        {"id": 5, "name":"Hyuuga - Byakugan e taijutsu supremo 👀", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual é a sua motivação como ninja?",
+      "options":[
+        {"id": 1, "name":"Proteger minha vila e amigos 🏯", "alias":"A"},
+        {"id": 2, "name":"Buscar vingança contra quem me prejudicou ☠️", "alias":"B"},
+        {"id": 3, "name":"Apenas viver uma vida tranquila e evitar trabalho 😴", "alias":"A"},
+        {"id": 4, "name":"Alcançar o poder máximo e dominar tudo 🔥", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual é a melhor forma de conseguir poder?",
+      "options":[
+        {"id": 1, "name":"Treinamento duro, trabalho em equipe e persistência!", "alias":"A"},
+        {"id": 2, "name":"Ser o mais poderoso de todos, custe o que custar.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual seu objetivo final como ninja?",
+      "options":[
+        {"id": 1, "name":"Virar Hokage e proteger a todos", "alias":"A"},
+        {"id": 2, "name":"Dominar a todos com um Genjutsu supremo", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um Ninja Lendário!",
+    "B": "Você muito provavelmente seria um Ninja Renegado!"
+  }
+}
